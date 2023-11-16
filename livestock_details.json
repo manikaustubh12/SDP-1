@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "breed":"Ola Electrical s1",
+        "basePrice": 100000,
+        "image":"image1.jpg"        
+    },
+    {
+        "id": 2,
+        "breed":"Dinning table",
+        "basePrice": 10000,
+        "image":"image2.jpg" 
+    },
+    {
+        "id": 3,
+        "breed":"Gaming PC",
+        "basePrice": 35000,
+        "image":"image3.jpg" 
+    },
+    {
+        "id": 4,
+        "breed":"Samsung lcd(128)",
+        "basePrice": 120000,
+        "image":"image4.jpg" 
+    },
+    {
+        "id": 5,
+        "breed":"One Plus-8 Pro",
+        "basePrice": 40000,
+        "image":"image8.jpg" 
+    },
+    {
+        "id": 6,
+        "breed":"Maruti Suzuki",
+        "basePrice": 350000,
+        "image":"image6.jpg" 
+    },
+    {
+        "id": 7,
+        "breed":"Noise Color fit",
+        "basePrice": 2999,
+        "image":"image7.jpg" 
+    },
+    {
+        "id": 8,
+        "breed":"Asus vivobook-14",
+        "basePrice": 40000,
+        "image":"image9.jpg" 
+    },
+    {
+        "id": 9,
+        "breed":"Boat Rockerz-330 ",
+        "basePrice": 999,
+        "image":"image10.jpg" 
+    },
+    {
+        "id": 10,
+        "breed":"Mi Powerbank(20000mah)",
+        "basePrice": 350000,
+        "image":"image11.jpg" 
+    },
+    {
+        "id": 11,
+        "breed":"iPhone-12 pro",
+        "basePrice": 49999,
+        "image":"image12.jpg" 
+    },
+    {
+        "id": 12,
+        "breed":"Samsung Note-10",
+        "basePrice": 69999,
+        "image":"image13.jpg" 
+    }
+    
+]
